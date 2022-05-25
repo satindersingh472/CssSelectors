@@ -1,0 +1,11 @@
+h2, p{
+    color: gray;
+    font-size: larger;
+    font-weight: bold;
+}
+.heading{
+    font-style: italic;
+}
+.heading_done{
+    font-style: italic;
+}

@@ -25,3 +25,28 @@ p {
 .explain{
     font-weight: bold;
 }
+.explain:link{
+    color: darkcyan;
+}
+.explain:visited{
+    color:aqua;
+}
+.explain:hover{
+    color:red;
+    font-size: 30px;
+   
+}
+.explain:active{
+    color:aquamarine;
+}
+a:link{
+    font-size: 19px;
+}
+a:visited{
+    font-size: 20px;
+    color:coral;
+}
+a:hover{
+    font-size: 30px;
+    color:red;
+}
